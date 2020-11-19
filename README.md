@@ -39,4 +39,4 @@ Jean
 
 ### Observações
 
-- Recomendo a utilização do Binder apenas executar operações que não envolva o treinamento do modelo pois, devido a limitações da plataforma, exceções não tratadas por falta de memória poderão ser lançadas.
+Recomendo a utilização do Binder apenas executar operações que não envolva o treinamento do modelo pois, devido a limitações da plataforma, exceções não tratadas por falta de memória poderão ser lançadas.
