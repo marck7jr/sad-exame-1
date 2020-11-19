@@ -1,5 +1,3 @@
-# SI 2020/1 - Sistemas a Decisão - Exame 1
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marck7jr/sad-exame-1/main)
 
 # SI 2020/1 - Sistemas a Decisão - Exame 1
